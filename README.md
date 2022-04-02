@@ -8,6 +8,6 @@
 
 ## What I do
 
-* Currently working on [Norium Bot](https://noriumbot.com) 
+* Currently working on [Norium Bot](https://noriumbot.com) and [coreLANG](https://github.com/TonehPy/coreLANG)
 * Python apps
 
